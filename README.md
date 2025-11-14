@@ -43,4 +43,3 @@ Hi, I'm Kalyani — a curious and resilient learner passionate about tech and co
 
 ---
 
-Would you like help adding a badge, preview GIF, or customizing the tone to match your LinkedIn style? I can also help you write a short project post to share online!
