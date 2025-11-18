@@ -136,7 +136,7 @@
         "id": "9DOUpTp7yUBh",
         "outputId": "d20b7d26-5491-4952-b680-e0c57bc42e0f"
       },
-      "execution_count": Null,
+      
       "outputs": [
         {
           "output_type": "execute_result",
