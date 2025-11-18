@@ -52,7 +52,7 @@
       "metadata": {
         "id": "qWhZHwT1wKIs"
       },
-      "execution_count": null,
+  
       "outputs": []
     },
     {
@@ -66,11 +66,11 @@
           "base_uri": "https://localhost:8080/",
           "height": 940
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "WlvRe4yfw8gl",
         "outputId": "fdabf9ff-f89d-4f4b-9104-afe810890fe2"
       },
-      "execution_count": null,
+     
       "outputs": [
         {
           "output_type": "stream",
@@ -136,7 +136,7 @@
         "id": "9DOUpTp7yUBh",
         "outputId": "d20b7d26-5491-4952-b680-e0c57bc42e0f"
       },
-      "execution_count": null,
+      "execution_count": Null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -611,7 +611,7 @@
         "pip install streamlit\n"
       ],
       "metadata": {
-        "collapsed": true,
+        "collapsed": True,
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
