@@ -697,7 +697,7 @@
         "st.write(f\"Predicted Species :{predicted_species}\")"
       ],
       "metadata": {
-        "collapsed": true,
+        "collapsed": True,
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
